@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myfirebase/static/css/main.4bdf0658.chunk.css",
+    "main.js": "/myfirebase/static/js/main.94195c90.chunk.js",
+    "main.js.map": "/myfirebase/static/js/main.94195c90.chunk.js.map",
+    "runtime-main.js": "/myfirebase/static/js/runtime-main.746b018a.js",
+    "runtime-main.js.map": "/myfirebase/static/js/runtime-main.746b018a.js.map",
+    "static/js/2.6426c65b.chunk.js": "/myfirebase/static/js/2.6426c65b.chunk.js",
+    "static/js/2.6426c65b.chunk.js.map": "/myfirebase/static/js/2.6426c65b.chunk.js.map",
+    "index.html": "/myfirebase/index.html",
+    "precache-manifest.0884d36b46eca68b5c20ce49398e9d21.js": "/myfirebase/precache-manifest.0884d36b46eca68b5c20ce49398e9d21.js",
+    "service-worker.js": "/myfirebase/service-worker.js",
+    "static/css/main.4bdf0658.chunk.css.map": "/myfirebase/static/css/main.4bdf0658.chunk.css.map",
+    "static/js/2.6426c65b.chunk.js.LICENSE.txt": "/myfirebase/static/js/2.6426c65b.chunk.js.LICENSE.txt",
+    "static/js/main.94195c90.chunk.js.LICENSE.txt": "/myfirebase/static/js/main.94195c90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.746b018a.js",
+    "static/js/2.6426c65b.chunk.js",
+    "static/css/main.4bdf0658.chunk.css",
+    "static/js/main.94195c90.chunk.js"
+  ]
+}
